@@ -1,0 +1,15 @@
+[Unit]
+Description=Blackboard Discord Bot
+After=network.target
+
+[Service]
+Type=oneshot
+User=loonbac
+EnvironmentFile=/home/loonbac/blackboard/.env
+WorkingDirectory=/home/loonbac/blackboard
+ExecStart=/home/loonbac/blackboard/.venv/bin/python bot.py
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,9 @@
+playwright
+playwright-stealth
+httpx
+python-dotenv
+python-dateutil
+tenacity
+pytest
+pytest-mock
+pytest-asyncio
