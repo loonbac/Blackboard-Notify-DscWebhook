@@ -29,12 +29,6 @@ Bot automatizado que monitorea las tareas pendientes de Blackboard Ultra y enví
 
 ---
 
-## 🖼️ Capturas de las Notificaciones
-
-_Aquí el usuario puede agregar capturas de las notificaciones de Discord cuando lo desee._
-
----
-
 ## 🚀 Instalación Rápida
 
 ### Prerrequisitos
